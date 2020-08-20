@@ -1,9 +1,9 @@
 ## Education 
--Ph.D., Computational and Applied Mathematics, Rice University, May 2022 (expected)
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 (expected)
 
--M.A., Computational and Applied Mathematics, Rice University, May 2019 (expected)
+- **M.A.**, Computational and Applied Mathematics, Rice University, May 2019 (expected)
 
--B.S., Mathematics, Lebanese American University, May 2017  
+- **B.S.**, Mathematics, Lebanese American University, May 2017  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
