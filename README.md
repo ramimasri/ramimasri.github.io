@@ -17,5 +17,5 @@ submitted, 2020.
 R. Masri, C. Puelz, B. Riviere.   
 submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
 3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
-R. Masri.
+R. Masri.  
 Thesis for degree of Master of Arts, Rice University. 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
