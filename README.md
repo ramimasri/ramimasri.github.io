@@ -1,10 +1,13 @@
 ## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 (expected)
+- _Ph.D._, Computational and Applied Mathematics, Rice University, May 2022 (expected)
+- _M.A._, Computational and Applied Mathematics, Rice University, May 2019
+- _B.S._, Mathematics, Lebanese American University, May 2017 
 
-- **M.A.**, Computational and Applied Mathematics, Rice University, May 2019 (expected)
-
-- **B.S.**, Mathematics, Lebanese American University, May 2017  
-### Markdown
+## Teaching
+- _Teaching Assistant_ CAAM 336 Differential equations in science and engineering,
+Fall 2019 - Spring 2020
+- _Grader_, CAAM 336, Fall 2017 - Spring 2018
+- _Grader_, CAAM 453: Numerical Analysis I, Fall 2018
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
