@@ -4,7 +4,7 @@
 - _B.S._, Mathematics, Lebanese American University, May 2017 
 
 ## Teaching
-- _Teaching Assistant_ CAAM 336 Differential equations in science and engineering,
+- _Teaching Assistant_, CAAM 336 Differential equations in science and engineering,
 Fall 2019 - Spring 2020
 - _Grader_, CAAM 336, Fall 2017 - Spring 2018
 - _Grader_, CAAM 453: Numerical Analysis I, Fall 2018
