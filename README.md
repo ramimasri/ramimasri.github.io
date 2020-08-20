@@ -1,37 +1,21 @@
-## Rami Masri
+## Education 
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 (expected)
+- **M.A.**, Computational and Applied Mathematics, Rice University, May 2019
+- **B.S.**, Mathematics, Lebanese American University, May 2017 
 
-You can use the [editor on GitHub](https://github.com/ramimasri/ramimasri.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Teaching
+- **Teaching Assistant**, CAAM 336:Differential equations in science and engineering,
+Fall 2019 - Spring 2020
+- **Grader**, CAAM 336, Fall 2017 - Spring 2018
+- **Grader**, CAAM 453: Numerical Analysis I, Fall 2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ramimasri/ramimasri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Papers 
+1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
+R. Masri, C. Puelz, B. Riviere.  
+submitted, 2020.
+2. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
+R. Masri, C. Puelz, B. Riviere.   
+submitted, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
+3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
+R. Masri.  
+Thesis for degree of Master of Arts, Rice University. 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
