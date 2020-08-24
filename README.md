@@ -1,5 +1,5 @@
 ## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 (expected)
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 _(expected)_
 - **M.A.**, Computational and Applied Mathematics, Rice University, May 2019
 - **B.S.**, Mathematics, Lebanese American University, May 2017 
 
