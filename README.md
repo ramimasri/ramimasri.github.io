@@ -13,9 +13,9 @@ Fall 2019 - Spring 2020
 1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021.
-2. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://arxiv.org/abs/1912.09587).   
+2. A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile  
 R. Masri, C. Puelz, B. Riviere.   
-*submitted*, 2019. <!--[link-to-arXiv:1912.0957](https://arxiv.org/abs/1912.09587).-->  
+*International Journal of Heat and Mass Transfer*, 2021. 
 3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
 R. Masri.  
 *Thesis for degree of Master of Arts, Rice University,* 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
