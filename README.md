@@ -6,7 +6,7 @@
 ## Professional development 
 - [Certificate in Teaching and Learning](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
 - [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021. 
-- 
+
 ## Teaching
 - **Teaching Assistant**, CAAM 336:Differential equations in science and engineering,
 Fall 2019 - Spring 2020
