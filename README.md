@@ -8,7 +8,7 @@
 - [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
 
 ## Teaching
-- **Teaching Assistant**, CAAM 336:Differential equations in science and engineering,
+- **Teaching Assistant**, CAAM 336: Differential equations in science and engineering,
 Fall 2019 - Spring 2020
 - **Grader**, CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021
 - **Grader**, CAAM 453: Numerical Analysis I, Fall 2018
@@ -28,6 +28,7 @@ R. Masri.
 - “One dimensional models of solute transport and blood flow: derivation and numerical simulation.” SIAM Conference on Computational Science and Engineering, March 2021
 - "Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks.” SIAM Texas Louisiana Annual Meeting, October 2020
 - “Discontinuous Galerkin methods for blood flow and solute transport models.” Finite Element Rodeo at Baylor University, March 2020
+
 ## Awards 
 - SIAM CSE Student Travel Award, 2021
 - Alan Weiser Memorial Travel Award, Rice University, 2020
