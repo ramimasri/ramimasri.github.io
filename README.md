@@ -10,22 +10,22 @@ Fall 2019 - Spring 2020
 - **Grader**, CAAM 453: Numerical Analysis I, Fall 2018
 
 ## Papers 
-1. A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
+- A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks.  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021.
-2. [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
+- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
 R. Masri, C. Puelz, B. Riviere.   
 *International Journal of Heat and Mass Transfer*, 2021. 
-3. [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
+- [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
 R. Masri.  
 *Thesis for degree of Master of Arts, Rice University,* 2019. <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
 ## Presentations 
-1. “One dimensional models of solute transport and blood flow: derivation and numerical simulation.” SIAM Conference on Computational Science and Engineering, March 2021.
-2. "Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks.” SIAM Texas Louisiana Annual Meeting, October 2020.
-3. “Discontinuous Galerkin methods for blood flow and solute transport models.” Finite Element Rodeo at Baylor University, March 2020.
+- “One dimensional models of solute transport and blood flow: derivation and numerical simulation.” SIAM Conference on Computational Science and Engineering, March 2021.
+- "Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks.” SIAM Texas Louisiana Annual Meeting, October 2020.
+- “Discontinuous Galerkin methods for blood flow and solute transport models.” Finite Element Rodeo at Baylor University, March 2020.
 
 ## Awards 
-1. SIAM CSE Student Travel Award, 2021.
-2. Alan Weiser Memorial Travel Award, Rice University, 2020.
-3. Fulbright Winner, U.S. Embassy in Beirut, 2017.
+- SIAM CSE Student Travel Award, 2021.
+- Alan Weiser Memorial Travel Award, Rice University, 2020.
+- Fulbright Winner, U.S. Embassy in Beirut, 2017.
