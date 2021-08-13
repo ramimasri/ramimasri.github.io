@@ -1,6 +1,6 @@
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 _(expected)_
-- **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019
+- **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019 
 - **B.S.**,  Mathematics, Lebanese American University, May 2017 
 
 ## Professional Development 
@@ -12,7 +12,7 @@
 Fall 2019 - Spring 2020
 - Grader:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
-## Papers 
+## Publications  
 - [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021
