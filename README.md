@@ -14,8 +14,8 @@ Fall 2019 - Spring 2020
 
 ## Papers 
 -  A Discontinuous Galerkin Pressure Correction Scheme for the Incompressible Navier-Stokes Equations: Stability and Convergence.
-   R. Masri, C. Liu, B. Riviere. 
-   
+  
+  R. Masri, C. Liu, B. Riviere.    
    *Submitted*, 2021  
 - [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere.  
