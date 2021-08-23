@@ -31,7 +31,7 @@ R. Masri.
   *SIAM Conference on Computational Science and Engineering*, March 2021
 - Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks. <br />
    *SIAM Texas Louisiana Annual Meeting*, October 2020
- - Discontinuous Galerkin methods for blood flow and solute transport models.” 
+ - Discontinuous Galerkin methods for blood flow and solute transport models. 
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
 ## Awards 
