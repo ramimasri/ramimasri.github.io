@@ -27,12 +27,12 @@ R. Masri.
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
 ## Presentations 
-- “One dimensional models of solute transport and blood flow: derivation and numerical simulation.” <br /> 
-   SIAM Conference on Computational Science and Engineering, March 2021
-- "Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks.” <br />
-   SIAM Texas Louisiana Annual Meeting, October 2020
- - “Discontinuous Galerkin methods for blood flow and solute transport models.” 
- <br /> Finite Element Rodeo at Baylor University, March 2020
+- One dimensional models of solute transport and blood flow: derivation and numerical simulation. <br /> 
+  *SIAM Conference on Computational Science and Engineering*, March 2021
+- Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks. <br />
+   *SIAM Texas Louisiana Annual Meeting*, October 2020
+ - Discontinuous Galerkin methods for blood flow and solute transport models.” 
+ <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
 ## Awards 
 - SIAM CSE Student Travel Award, 2021
