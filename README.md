@@ -13,7 +13,7 @@ Fall 2019 - Spring 2020
 - Grader:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
 ## Papers 
--  A Discontinuous Galerkin Pressure Correction Scheme for the Incompressible Navier-Stokes Equations: Stability and Convergence. R. Masri, C. Liu, B. Rivier. (Submitted) 
+-  A Discontinuous Galerkin Pressure Correction Scheme for the Incompressible Navier-Stokes Equations: Stability and Convergence. R. Masri, C. Liu, B. Riviere. *(Submitted)* 
 - [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021
