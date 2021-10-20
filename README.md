@@ -17,11 +17,12 @@ Fall 2019 - Spring 2020
 R. Masri, C. Liu, B. Riviere.    
 *Submitted*, 2021  
 -  A computational study on flow instabilities in aneurysms. 
+ N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde
  *SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
 - [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021
-- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
+- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828) 
 R. Masri, C. Puelz, B. Riviere.   
 *International Journal of Heat and Mass Transfer*, 2021 
 - [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400).  
