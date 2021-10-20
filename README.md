@@ -29,7 +29,9 @@ R. Masri, C. Puelz, B. Riviere
 R. Masri  
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
-## Presentations 
+## Research Presentations 
+- Stability and convergence of high order discontinuous Galerkin methods for incompressible flows.  
+ *SIAM Texas Louisiana Annual Meeting (Upcoming)*, November 2021
 - One dimensional models of solute transport and blood flow: derivation and numerical simulation. <br /> 
   *SIAM Conference on Computational Science and Engineering*, March 2021
 - Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks. <br />
