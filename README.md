@@ -8,12 +8,10 @@
 - [Certificate in Teaching and Learning](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
 - [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
 
-## Teaching
-- Teaching Assistant:  CAAM 336, Differential equations in science and engineering,
-Fall 2019 - Spring 2020
-- Grader:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
-
-## Papers 
+## Research 
+-  Mathematical modeling and computation with applications to the life sciences   
+-  Numerical analysis of discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source
+## Publications and Preprints  
 -  [A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence](https://arxiv.org/abs/2109.10999)   
 R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
@@ -29,6 +27,11 @@ R. Masri, C. Puelz, B. Riviere
 - [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400)    
 R. Masri  
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
+
+## Teaching
+- Teaching Assistant:  CAAM 336, Differential equations in science and engineering,
+Fall 2019 - Spring 2020
+- Grader:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
 ## Research Presentations 
 - Stability and convergence of high order discontinuous Galerkin methods for incompressible flows.  
