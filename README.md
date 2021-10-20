@@ -8,9 +8,10 @@
 - [Certificate in Teaching and Learning](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
 - [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
 
-## Research 
+## Research Intersets 
 -  Mathematical modeling and computation with applications to the life sciences   
--  Numerical analysis of discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source
+-  Numerical analysis of discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
+
 ## Publications and Preprints  
 -  [A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence](https://arxiv.org/abs/2109.10999)   
 R. Masri, C. Liu, B. Riviere        
