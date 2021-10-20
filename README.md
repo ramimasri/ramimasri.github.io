@@ -5,27 +5,27 @@
 - **B.S.**,  Mathematics, Lebanese American University, May 2017 
 
 ## Professional Development 
-- [Certificate in Teaching and Learning](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
-- [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
+- [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
+- [**Simula Summer School in Computational Physiology**](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
 
 ## Research Intersets 
 -  **Mathematical modeling** with applications to the life sciences   
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
--  [A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence](https://arxiv.org/abs/2109.10999)   
+-  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://arxiv.org/abs/2109.10999)   
 R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
--  [A computational study on flow instabilities in aneurysms](https://zenodo.org/record/5296829#.YXBCmRrMKM8)       
+-  [**A computational study on flow instabilities in aneurysms**](https://zenodo.org/record/5296829#.YXBCmRrMKM8)       
 N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde    
 *SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
-- [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
+- [**A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks**](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere  
 *Communications on Applied Mathematics and Computation,* 2021
-- [A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
+- [**A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile**](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
 R. Masri, C. Puelz, B. Riviere  
 *International Journal of Heat and Mass Transfer*, 2021 
-- [Derivation and numerical simulation of oxygen transport in blood vessels](https://scholarship.rice.edu/handle/1911/107400)    
+- [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
 R. Masri  
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
