@@ -35,6 +35,7 @@ R. Masri.
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
 ## Awards 
-- SIAM CSE Student Travel Award, 2021
-- Alan Weiser Memorial Travel Award, Rice University, 2020
-- Fulbright Winner, U.S. Embassy in Beirut, 2017
+-  Student Travel Award, SIAM Texas-Louisiana Section, 2021 
+-  Student Travel Award, SIAM Conference on Computational Science and Engineering, 2021
+-  Alan Weiser Memorial Travel Award, Rice University, 2020
+-  Fulbright Winner, U.S. Embassy in Beirut, 2017
