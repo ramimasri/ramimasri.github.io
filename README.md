@@ -16,9 +16,9 @@ Fall 2019 - Spring 2020
 -  [A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence](https://arxiv.org/abs/2109.10999) 
 R. Masri, C. Liu, B. Riviere.    
 *Submitted*, 2021  
--  A computational study on flow instabilities in aneurysms. 
- N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde
- *SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
+-  A computational study on flow instabilities in aneurysms.    
+N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde.
+*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
 - [A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere.  
 *Communications on Applied Mathematics and Computation,* 2021
