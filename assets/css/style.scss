@@ -3,4 +3,10 @@
 
 @import "{{ site.theme }}";
 
-.logo{width:200px;margin-top: 10px;}
+.logo {
+    width: 56px;
+    height: 56px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
