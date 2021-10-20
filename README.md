@@ -9,8 +9,8 @@
 - [Simula Summer School in Computational Physiology](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
 
 ## Research Intersets 
--  Mathematical modeling and computation with applications to the life sciences   
--  Numerical analysis of discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
+-  **Mathematical modeling** with applications to the life sciences   
+-  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
 -  [A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence](https://arxiv.org/abs/2109.10999)   
@@ -30,22 +30,22 @@ R. Masri
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
 ## Teaching
-- Teaching Assistant:  CAAM 336, Differential equations in science and engineering,
+- **Teaching Assistant**:  CAAM 336, Differential equations in science and engineering,
 Fall 2019 - Spring 2020
-- Grader:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
+- **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
 ## Research Presentations 
-- Stability and convergence of high order discontinuous Galerkin methods for incompressible flows.  
+- **Stability and convergence of high order discontinuous Galerkin methods for incompressible flows**  
  *SIAM Texas Louisiana Annual Meeting (Upcoming)*, November 2021
-- One dimensional models of solute transport and blood flow: derivation and numerical simulation. <br /> 
+- **One dimensional models of solute transport and blood flow: derivation and numerical simulation** <br /> 
   *SIAM Conference on Computational Science and Engineering*, March 2021
-- Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks. <br />
+- **Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks** <br />
    *SIAM Texas Louisiana Annual Meeting*, October 2020
- - Discontinuous Galerkin methods for blood flow and solute transport models. 
+ - **Discontinuous Galerkin methods for blood flow and solute transport models** 
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
 ## Awards 
--  Student Travel Award, SIAM Texas-Louisiana Section, 2021 
--  Student Travel Award, SIAM Conference on Computational Science and Engineering, 2021
--  Alan Weiser Memorial Travel Award, Rice University, 2020
--  Fulbright Winner, U.S. Embassy in Beirut, 2017
+-  **Student Travel Award**, SIAM Texas-Louisiana Section, 2021 
+-  **Student Travel Award**, SIAM Conference on Computational Science and Engineering, 2021
+-  **Alan Weiser Memorial Travel Award**, Rice University, 2020
+-  **Fulbright Winner**, U.S. Embassy in Beirut, 2017
