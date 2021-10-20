@@ -1,5 +1,3 @@
-<img align="left" width="180" height="180" src="Masri.jpg" style="margin:0px 15px">  
-
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 _(expected)_
