@@ -13,6 +13,8 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
+- [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**] R. Masri, C. Liu, B. Riviere        
+*Submitted*, 2021  
 -  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://arxiv.org/abs/2109.10999)   
 R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
@@ -36,7 +38,7 @@ Fall 2019 - Spring 2020
 
 ## Research Presentations 
 - **Stability and convergence of high order discontinuous Galerkin methods for incompressible flows**  
- *SIAM Texas Louisiana Annual Meeting (Upcoming)*, November 2021
+ *SIAM Texas Louisiana Annual Meeting*, November 2021
 - **One dimensional models of solute transport and blood flow: derivation and numerical simulation** <br /> 
   *SIAM Conference on Computational Science and Engineering*, March 2021
 - **Derivation and simulation of blood flow and solute transport models in one dimensional vessel networks** <br />
