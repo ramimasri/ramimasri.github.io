@@ -13,7 +13,7 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
-- **Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**  
+- [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
  R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
 -  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://arxiv.org/abs/2109.10999)   
