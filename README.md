@@ -18,7 +18,7 @@
 *Submitted*, 2021  
 -  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://arxiv.org/abs/2109.10999)   
 R. Masri, C. Liu, B. Riviere        
-*Submitted*, 2021  
+*Mathematics of Computation*, (Accepted) 2021  
 -  [**A computational study on flow instabilities in aneurysms**](https://zenodo.org/record/5296829#.YXBCmRrMKM8)       
 N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde    
 *SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
@@ -38,6 +38,8 @@ Fall 2019 - Spring 2020
 - **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
 ## Research Presentations 
+- **Analysis of discontinuous Galerkin methods combined with splitting techniques for incompressible flow**
+ *2022 SIAM Annual Meetings*, (Upcoming) July 2022
 - **Stability and convergence of high order discontinuous Galerkin methods for incompressible flows**  
  *SIAM Texas Louisiana Annual Meeting*, November 2021
 - **One dimensional models of solute transport and blood flow: derivation and numerical simulation** <br /> 
