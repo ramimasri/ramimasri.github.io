@@ -4,10 +4,6 @@
 - **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019 
 - **B.S.**,  Mathematics, Lebanese American University, May 2017 
 
-## Professional Development 
-- [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, May 2022 _(expected)_ 
-- [**Simula Summer School in Computational Physiology**](https://www.simula.no/education/courses/simula-summer-school-computational-physiology), Simula, July-August 2021 
-
 ## Research Interests 
 -  **Mathematical modeling** with applications to the life sciences   
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
@@ -33,6 +29,7 @@ R. Masri
 *Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
 ## Teaching
+- [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, December 2021 
 - **Teaching Assistant**:  CAAM 336, Differential equations in science and engineering,
 Fall 2019 - Spring 2020
 - **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
