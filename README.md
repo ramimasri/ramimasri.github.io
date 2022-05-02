@@ -1,6 +1,6 @@
 
 ## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 _(expected)_
+- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 
 - **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019 
 - **B.S.**,  Mathematics, Lebanese American University, May 2017 
 
@@ -12,12 +12,12 @@
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
  R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
--  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://arxiv.org/abs/2109.10999)   
+-  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2022-03731-5/)   
 R. Masri, C. Liu, B. Riviere        
-*Mathematics of Computation*, (Accepted) 2021  
--  [**A computational study on flow instabilities in aneurysms**](https://zenodo.org/record/5296829#.YXBCmRrMKM8)       
+*Mathematics of Computation*, 2021  
+-  [**A computational study on flow instabilities in aneurysms**](https://link.springer.com/book/9783031051654)       
 N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde    
-*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (to appear)*, 2021
+*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology*, 2021
 - [**A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks**](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere  
 *Communications on Applied Mathematics and Computation,* 2021
