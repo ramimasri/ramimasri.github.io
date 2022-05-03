@@ -54,7 +54,7 @@ R. Masri  <br />
 *Thesis for the degree of Doctor of Philosophy, Rice University,* 2022 
 - [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
 R. Masri  
-*Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
+*Thesis for the degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 ## Awards 
 -  **Student Travel Award**, SIAM Texas-Louisiana Section, 2021 
 -  **Student Travel Award**, SIAM Conference on Computational Science and Engineering, 2021
