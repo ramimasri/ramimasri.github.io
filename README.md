@@ -27,9 +27,6 @@ R. Masri, C. Puelz, B. Riviere
 - [**A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile**](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
 R. Masri, C. Puelz, B. Riviere  
 *International Journal of Heat and Mass Transfer*, 2021 
-- [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
-R. Masri  
-*Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 
 ## Teaching
 - [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, December 2021 
@@ -51,6 +48,13 @@ Fall 2019 - Spring 2020
  - **Discontinuous Galerkin methods for blood flow and solute transport models** 
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
+## Thesis 
+- **Analysis of discontinuous Galerkin schemes for flow and transport problems** <br />
+R. Masri  <br />
+*Thesis for the degree of Doctor of Philosophy, Rice University,* 2022 
+- [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
+R. Masri  
+*Thesis for degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
 ## Awards 
 -  **Student Travel Award**, SIAM Texas-Louisiana Section, 2021 
 -  **Student Travel Award**, SIAM Conference on Computational Science and Engineering, 2021
