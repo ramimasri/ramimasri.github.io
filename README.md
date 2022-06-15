@@ -1,3 +1,5 @@
+## Experience 
+- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula, June 2022 - Present
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 
@@ -55,6 +57,7 @@ R. Masri  <br />
 - [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
 R. Masri  
 *Thesis for the degree of Master of Arts, Rice University,* 2019 <!--[link to thesis](https://scholarship.rice.edu/handle/1911/107400).-->
+
 ## Awards 
 -  **Student Travel Award**, SIAM Texas-Louisiana Section, 2021 
 -  **Student Travel Award**, SIAM Conference on Computational Science and Engineering, 2021
