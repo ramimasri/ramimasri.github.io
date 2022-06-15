@@ -50,7 +50,7 @@ Fall 2019 - Spring 2020
  - **Discontinuous Galerkin methods for blood flow and solute transport models** 
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
-## Thesis 
+## Theses 
 - **Analysis of discontinuous Galerkin schemes for flow and transport problems** <br />
 R. Masri  <br />
 *Thesis for the degree of Doctor of Philosophy, Rice University,* 2022 
