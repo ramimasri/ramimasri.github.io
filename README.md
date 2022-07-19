@@ -38,7 +38,7 @@ Fall 2019 - Spring 2020
 
 ## Research Presentations 
 - **Analysis of discontinuous Galerkin methods combined with splitting techniques for incompressible flow**<br />
- *2022 SIAM Annual Meetings*, (Upcoming) July 2022
+ *2022 SIAM Annual Meetings*, July 2022
 - **Discontinuous Galerkin pressure correction methods for incompressible flow**<br /> 
 *Finite Element Rodeo at Southern Methodist University, 2022* 
 - **Stability and convergence of high order discontinuous Galerkin methods for incompressible flows**  
