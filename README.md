@@ -11,7 +11,7 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
-- **Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**<br />
+- [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://arxiv.org/abs/2207.08421)<br />
 R. Masri, B. Shen, B. Riviere        
 *Submitted*, 2022 
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
