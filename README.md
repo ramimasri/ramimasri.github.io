@@ -1,5 +1,5 @@
 ## Experience 
-- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula, June 2022 - Present
+- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula Research Laboratory, June 2022 - Present
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 
@@ -16,7 +16,7 @@
 *Submitted*, 2022 
 - [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://arxiv.org/abs/2207.08421)<br />
 R. Masri, B. Shen, B. Riviere        
-*Submitted*, 2022 
+*ESAIM: Mathematical Modelling and Numerical Analysis (to appear)*, 2022 
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
  R. Masri, C. Liu, B. Riviere        
 *Submitted*, 2021  
