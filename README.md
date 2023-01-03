@@ -19,7 +19,7 @@ R. Masri, B. Shen, B. Riviere
 *ESAIM: Mathematical Modelling and Numerical Analysis (to appear)*, 2022 
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
  R. Masri, C. Liu, B. Riviere        
-*Submitted*, 2021  
+*Numerical Methods for Partial Differential Equations (to appear)*, 2021  
 -  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2022-03731-5/)   
 R. Masri, C. Liu, B. Riviere        
 *Mathematics of Computation*, 2021  
