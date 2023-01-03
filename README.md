@@ -54,7 +54,7 @@ Fall 2019 - Spring 2020
  <br /> *Finite Element Rodeo at Baylor University*, March 2020
 
 ## Theses 
-- **Analysis of discontinuous Galerkin schemes for flow and transport problems** <br />
+- [**Analysis of discontinuous Galerkin schemes for flow and transport problems**](https://scholarship.rice.edu/handle/1911/113379) <br />
 R. Masri  <br />
 *Thesis for the degree of Doctor of Philosophy, Rice University,* 2022 
 - [**Derivation and numerical simulation of oxygen transport in blood vessels**](https://scholarship.rice.edu/handle/1911/107400)    
