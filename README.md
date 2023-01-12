@@ -14,9 +14,9 @@
 - [**Convergence of a decoupled splitting scheme for the Cahn-Hilliard-Navier-Stokes System**](https://arxiv.org/pdf/2210.05625.pdf)<br /> 
  C.Liu, R. Masri, B. Riviere  
 *Submitted*, 2022 
-- [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://arxiv.org/abs/2207.08421)<br />
+- [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2022095)<br />
 R. Masri, B. Shen, B. Riviere        
-*ESAIM: Mathematical Modelling and Numerical Analysis (to appear)*, 2022 
+*ESAIM: Mathematical Modelling and Numerical Analysis*, 2022 
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](http://arxiv.org/abs/2112.03903)  
  R. Masri, C. Liu, B. Riviere        
 *Numerical Methods for Partial Differential Equations (to appear)*, 2022  
