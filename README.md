@@ -33,7 +33,7 @@ R. Masri, C. Puelz, B. Riviere
 R. Masri, C. Puelz, B. Riviere  
 *International Journal of Heat and Mass Transfer*, 2021 
 
-## Teaching
+## Teaching Experience and Qualifications 
 - [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, December 2021 
 - **Teaching Assistant**:  CAAM 336, Differential equations in science and engineering,
 Fall 2019 - Spring 2020
