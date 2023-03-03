@@ -11,6 +11,9 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
+- [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://arxiv.org/pdf/2302.13896.pdf)<br /> 
+KLA. Kirk, R. Masri, B. Riviere  
+ *Submitted*, 2023
 - [**Convergence of a decoupled splitting scheme for the Cahn-Hilliard-Navier-Stokes System**](https://arxiv.org/pdf/2210.05625.pdf)<br /> 
  C.Liu, R. Masri, B. Riviere  
 *Submitted*, 2022 
