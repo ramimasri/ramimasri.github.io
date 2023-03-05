@@ -37,7 +37,9 @@ R. Masri, C. Puelz, B. Riviere
 *International Journal of Heat and Mass Transfer*, 2021 
 
 ## Teaching Experience and Qualifications 
-- [**Certificate in Teaching and Learning**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, December 2021 
+- **Co-instructor and Co-organizer**:
+ [FAEFEM: Functional Analysis Essentials for the Finite Element Method](https://www.simula.no/education/courses/faefem-functional-analysis-essentials-finite-element-method), 
+- [**Certificate in Teaching and Learning:**](https://cte.rice.edu/grads), Center for Teaching Excellence at Rice University, December 2021 
 - **Teaching Assistant**:  CAAM 336, Differential equations in science and engineering,
 Fall 2019 - Spring 2020
 - **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
