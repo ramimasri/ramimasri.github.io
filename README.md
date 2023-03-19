@@ -45,6 +45,8 @@ Fall 2019 - Spring 2020
 - **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
 
 ## Research Presentations 
+- **A Decoupled Splitting Scheme Combined with a Discontinuous Galerkin Spatial Discretization for Solving the Cahn-Hilliard-Navier-Stokes Equations**<br>
+  *SIAM Conference on Computational Science and Engineering*, March 2023
 - **Analysis of discontinuous Galerkin methods combined with splitting techniques for incompressible flow**<br />
  *2022 SIAM Annual Meetings*, July 2022
 - **Discontinuous Galerkin pressure correction methods for incompressible flow**<br /> 
