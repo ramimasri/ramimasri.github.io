@@ -11,6 +11,9 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
+-[The modelling error in multi-dimensional time-dependent solute transport models] (https://arxiv.org/pdf/2303.17999.pdf)<br />
+Marius Zeinhofer, Miroslav Kuchta, Marie E. Rognes
+*Submitted*, 2023 
 - [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://arxiv.org/pdf/2302.13896.pdf)<br /> 
 KLA. Kirk, R. Masri, B. Riviere  
  *Submitted*, 2023
