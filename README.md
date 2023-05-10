@@ -23,13 +23,13 @@ KLA. Kirk, R. Masri, B. Riviere
 *Submitted*, 2022 
 - [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2022095)<br />
 R. Masri, B. Shen, B. Riviere        
-*ESAIM: Mathematical Modelling and Numerical Analysis*, 2022 
+*ESAIM: Mathematical Modelling and Numerical Analysis*, 2023 
 - [**Improved a priori error estimates for a discontinuous Galerkin pressure correction scheme for the Navier-Stokes equations**](https://onlinelibrary.wiley.com/doi/10.1002/num.23002)  
  R. Masri, C. Liu, B. Riviere        
-*Numerical Methods for Partial Differential Equations*, 2022  
+*Numerical Methods for Partial Differential Equations*, 2023  
 -  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2022-03731-5/)   
 R. Masri, C. Liu, B. Riviere        
-*Mathematics of Computation*, 2021  
+*Mathematics of Computation*, 2022  
 -  [**A computational study on flow instabilities in aneurysms**](https://link.springer.com/book/9783031051654)       
 N. Berre, G. Castro, H. Kjeldsberg, R. Masri, and I. Gjerde    
 *SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology*, 2021
