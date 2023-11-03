@@ -11,7 +11,9 @@
 -  **Numerical analysis of discontinuous Galerkin methods** applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source  
 
 ## Publications and Preprints  
-
+- [**A Unified Framework for the Error Analysis of Physics-Informed Neural Networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
+M. Zeinhofer, R. Masri, K. A. Mardal <br />
+  *Submitted*, 2023 
 - [**The modelling error in multi-dimensional time-dependent solute transport models**](https://arxiv.org/pdf/2303.17999.pdf)<br />
 R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *Submitted*, 2023 
