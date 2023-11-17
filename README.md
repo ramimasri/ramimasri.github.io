@@ -22,7 +22,7 @@ KLA. Kirk, R. Masri, B. Riviere
  *IMA Journal of Numerical Analysis (to appear)*, 2023
 - [**Convergence of a decoupled splitting scheme for the Cahn-Hilliard-Navier-Stokes System**](https://epubs.siam.org/doi/10.1137/22M1528069)<br /> 
  C.Liu, R. Masri, B. Riviere  
-*SIAM Journal on Numerical Analysis (to appear)*, 2023 
+*SIAM Journal on Numerical Analysis*, 2023 
 - [**Discontinuous Galerkin approximations to elliptic and parabolic problems with a Dirac line source**](https://www.esaim-m2an.org/component/article?access=doi&doi=10.1051/m2an/2022095)<br />
 R. Masri, B. Shen, B. Riviere        
 *ESAIM: Mathematical Modelling and Numerical Analysis*, 2023 
