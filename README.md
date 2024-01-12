@@ -7,8 +7,8 @@
 - **B.S.**,  Mathematics, Lebanese American University, May 2017 
 
 ## Research Interests 
--  **Mathematical modeling** with applications to the life sciences: Coupled mutli-dimensional models for networks embedded in domains   
--  **Analysis of numerical methods for various PDES**: Discontinous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
+-  **Mathematical modeling** with applications to the life sciences: Coupled multi-dimensional models for networks embedded in domains   
+-  **Analysis of numerical methods for various PDES**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
 
 ## Preprints  
 1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://arxiv.org/abs/2312.16565) <br />
