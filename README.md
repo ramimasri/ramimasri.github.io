@@ -22,9 +22,9 @@ R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *Submitted*, 2023
    
 ## Publications 
-1. [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://arxiv.org/pdf/2302.13896.pdf)<br /> 
+1. [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://doi.org/10.1093/imanum/drad075)<br /> 
 KLA. Kirk, R. Masri, B. Riviere  
- *IMA Journal of Numerical Analysis (to appear)*, 2023
+ *IMA Journal of Numerical Analysis*, 2023
 1. [**Convergence of a decoupled splitting scheme for the Cahn-Hilliard-Navier-Stokes System**](https://epubs.siam.org/doi/10.1137/22M1528069)<br /> 
  C.Liu, R. Masri, B. Riviere  
 *SIAM Journal on Numerical Analysis*, 2023 
