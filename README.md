@@ -11,9 +11,6 @@
 -  **Analysis of numerical methods for various PDES**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
 
 ## Preprints  
-1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://arxiv.org/abs/2312.16565) <br />
-R. Masri,  M. Kuchta, B. Riviere <br />
-*Submitted*, 2023 
 1. [**A unified framework for the error analysis of physics-informed neural networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
 M. Zeinhofer, R. Masri, K. A. Mardal <br />
   *Submitted*, 2023 
@@ -22,6 +19,9 @@ R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *Submitted*, 2023
    
 ## Publications 
+1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://arxiv.org/abs/2312.16565) <br />
+R. Masri,  M. Kuchta, B. Riviere <br />
+*SIAM Journal on Numerical Analysis (to appear)*, 2024
 1. [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://doi.org/10.1093/imanum/drad075)<br /> 
 KLA. Kirk, R. Masri, B. Riviere  
  *IMA Journal of Numerical Analysis*, 2023
