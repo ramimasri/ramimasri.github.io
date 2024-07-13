@@ -1,5 +1,6 @@
 ## Experience 
-- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula Research Laboratory, June 2022 - Present
+- **Postdoctoral Researcher**,Division of Applied Mathematics, Brown University, July 2024 - Present 
+- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula Research Laboratory, June 2022 - July 2024
 
 ## Education 
 - **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 
