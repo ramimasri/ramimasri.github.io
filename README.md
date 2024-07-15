@@ -15,11 +15,11 @@
 1. [**A unified framework for the error analysis of physics-informed neural networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
 M. Zeinhofer, R. Masri, K. A. Mardal <br />
   *Submitted*, 2023 
-1. [**The modelling error in multi-dimensional time-dependent solute transport models**](https://arxiv.org/pdf/2303.17999.pdf)<br />
-R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
-  *Submitted*, 2023
    
 ## Publications 
+1. [**The modelling error in multi-dimensional time-dependent solute transport models**](https://arxiv.org/pdf/2303.17999.pdf)<br />
+R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
+  *ESAIM: Mathematical Modelling and Numerical Analysis (to appear)*, 2024
 1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://arxiv.org/abs/2312.16565) <br />
 R. Masri,  M. Kuchta, B. Riviere <br />
 *SIAM Journal on Numerical Analysis (to appear)*, 2024
