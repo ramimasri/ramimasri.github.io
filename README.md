@@ -20,9 +20,9 @@ M. Zeinhofer, R. Masri, K. A. Mardal <br />
 1. [**The modelling error in multi-dimensional time-dependent solute transport models**](https://arxiv.org/pdf/2303.17999.pdf)<br />
 R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *ESAIM: Mathematical Modelling and Numerical Analysis (to appear)*, 2024
-1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://arxiv.org/abs/2312.16565) <br />
+1. [**Discontinuous Galerkin methods for 3D-1D systems**](https://epubs.siam.org/doi/full/10.1137/23M1627390) <br />
 R. Masri,  M. Kuchta, B. Riviere <br />
-*SIAM Journal on Numerical Analysis (to appear)*, 2024
+*SIAM Journal on Numerical Analysis*, 2024
 1. [**Numerical analysis of a hybridized discontinuous Galerkin method for the Cahn–Hilliard problem**](https://doi.org/10.1093/imanum/drad075)<br /> 
 KLA. Kirk, R. Masri, B. Riviere  
  *IMA Journal of Numerical Analysis*, 2023
