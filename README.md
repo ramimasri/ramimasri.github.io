@@ -12,11 +12,14 @@
 -  **Analysis of numerical methods for various PDES**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
 
 ## Preprints  
-1. [**A unified framework for the error analysis of physics-informed neural networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
-M. Zeinhofer, R. Masri, K. A. Mardal <br />
-  *Submitted*, 2023 
+1. [**A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model**](https://arxiv.org/pdf/2411.02646) <br />
+ R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
+  *Submitted*, 2024 
    
 ## Publications 
+1. [**A unified framework for the error analysis of physics-informed neural networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
+M. Zeinhofer, R. Masri, K. A. Mardal <br />
+  *IMA Journal of Numerical Analysis (to appear)*, 2023 
 1. [**The modelling error in multi-dimensional time-dependent solute transport models**](https://www.esaim-m2an.org/articles/m2an/abs/2024/05/m2an230121/m2an230121.html)<br />
 R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *ESAIM: Mathematical Modelling and Numerical Analysis*, 2024
