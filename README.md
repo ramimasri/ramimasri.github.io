@@ -19,7 +19,7 @@
 ## Publications 
 1. [**A unified framework for the error analysis of physics-informed neural networks**](https://arxiv.org/pdf/2311.00529.pdf) <br />
 M. Zeinhofer, R. Masri, K. A. Mardal <br />
-  *IMA Journal of Numerical Analysis (to appear)*, 2023 
+  *IMA Journal of Numerical Analysis (to appear)*, 2024
 1. [**The modelling error in multi-dimensional time-dependent solute transport models**](https://www.esaim-m2an.org/articles/m2an/abs/2024/05/m2an230121/m2an230121.html)<br />
 R. Masri, M. Zeinhofer, M. Kuchta, M. E. Rognes<br />
   *ESAIM: Mathematical Modelling and Numerical Analysis*, 2024
