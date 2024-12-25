@@ -1,12 +1,3 @@
-## Experience 
-- **Postdoctoral Researcher**, Division of Applied Mathematics, Brown University, July 2024 - Present 
-- **Postdoctoral Fellow**, Department of Numerical Analysis and Scientific Computing, Simula Research Laboratory, June 2022 - July 2024
-
-## Education 
-- **Ph.D.**, Computational and Applied Mathematics, Rice University, May 2022 
-- **M.A.**,  Computational and Applied Mathematics, Rice University, May 2019 
-- **B.S.**,  Mathematics, Lebanese American University, May 2017 
-
 ## Research Interests 
 -  **Mathematical modeling** with applications to the life sciences: Coupled multi-dimensional models for networks embedded in domains   
 -  **Analysis of numerical methods for various PDES**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
