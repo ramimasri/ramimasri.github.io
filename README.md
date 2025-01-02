@@ -3,6 +3,9 @@
 -  **Analysis of numerical methods for various PDES**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
 
 ## Preprints  
+1. [**A locally-conservative proximal Galerkin \\ method for pointwise bound constraints**](https://arxiv.org/pdf/2412.21039) <br/>
+ G. Fu, B. Keith, R. Masri <br /> 
+
 1. [**A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model**](https://arxiv.org/pdf/2411.02646) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
   *Submitted*, 2024 
