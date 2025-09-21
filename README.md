@@ -2,10 +2,14 @@
 -  **Mathematical modeling** with applications to the life sciences: Coupled multi-dimensional models for networks embedded in domains   
 -  **Analysis of numerical methods for various PDEs**: Discontinuous Galerkin methods applied to the incompressible Navier-Stokes equations, Cahn–Hilliard–Navier–Stokes system, and elliptic problems with a Dirac line source; Neural network approximations
 
-## Preprints  
+## Preprints 
+1. [**A priori error analysis of the proximal Galerkin method**](https://arxiv.org/abs/2507.13516)<br/>
+  *Submitted*, 2025.
+1. [**In-silico molecular enrichment and clearance of the human intracranial space**](https://www.biorxiv.org/content/10.1101/2025.01.30.635680v1.full.pdf)<br/> 
+*Submitted*, 2025. 
 1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://arxiv.org/pdf/2412.21039) <br/>
  G. Fu, B. Keith, R. Masri <br /> 
-  *Submitted*, 2024 
+  *Submitted*, 2025 
 
 1. [**A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model**](https://arxiv.org/pdf/2411.02646) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
