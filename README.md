@@ -1,5 +1,5 @@
 ## Preprints 
-1. [**Analysis of a Discontinuous Galerkin Method for Diffusion Problems on Intersecting Domains**](https://arxiv.org/pdf/2512.11111)<br/>
+1. [**Analysis of a discontinuous Galerkin method for diffusion problems on intersecting Domains**](https://arxiv.org/pdf/2512.11111)<br/>
    M. Kuchta, R. Masri, B. Riviere <br />
    *Submitted*, 2026
 1. [**A priori error analysis of the proximal Galerkin method**](https://arxiv.org/abs/2507.13516)<br/>
@@ -12,7 +12,7 @@
  G. Fu, B. Keith, R. Masri <br /> 
   *Submitted*, 2025 
 ## Publications 
-1. [**A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model**](https://arxiv.org/pdf/2411.02646) <br />
+1. [**A discontinuous Galerkin method for the extracellular membrane intracellular model**](https://arxiv.org/pdf/2411.02646) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
   *IMA Journal of Numerical Analysis (to appear)*, 2026 
 1. [**A unified framework for the error analysis of physics-informed neural networks**]( https://doi.org/10.1093/imanum/drae081) <br />
@@ -47,12 +47,15 @@ R. Masri, C. Puelz, B. Riviere
 *International Journal of Heat and Mass Transfer*, 2021 
 
 ## Teaching Experience and Qualifications 
-- **Co-instructor and Co-organizer**:
+- **Instructor**: Brown University  <br />
+ [Introduction to Scientific Computing] <br/ > 
+Fall 2025
+- **Co-instructor and Co-organizer**: Simula Academy  <br />
  [FAEFEM: Functional Analysis Essentials for the Finite Element Method](https://www.simula.no/education/courses/faefem-functional-analysis-essentials-finite-element-method), Simula Academy, March 2023
 - [**Certificate in Teaching and Learning:**](https://cte.rice.edu/grads) Center for Teaching Excellence at Rice University, December 2021 
-- **Teaching Assistant**:  CAAM 336, Differential equations in science and engineering,
-Fall 2019 - Spring 2020
-- **Grader**:  CAAM 336, Fall 2017 - Spring 2018, Fall 2020 - Spring 2021 and CAAM 453, Numerical Analysis I, Fall 2018
+- **Teaching Assistant**: Rice University <br />
+ CAAM 336, Differential equations in science and engineering <br />
+   Fall 2019 - Spring 2020
 
 <!---
 ## Research Presentations 
