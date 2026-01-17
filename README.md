@@ -1,4 +1,7 @@
 ## Preprints 
+1. [**Analysis of a Discontinuous Galerkin Method for Diffusion Problems on Intersecting Domains**](https://arxiv.org/pdf/2512.11111)<br/>
+   M. Kuchta, R. Masri, B. Riviere <br />
+   *Submitted*, 2026
 1. [**A priori error analysis of the proximal Galerkin method**](https://arxiv.org/abs/2507.13516)<br/>
    B. Keith, R. Masri, M. Zeinhofer <br/>
   *Submitted*, 2025
