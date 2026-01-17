@@ -1,5 +1,5 @@
 ## Preprints 
-1. [**Analysis of a discontinuous Galerkin method for diffusion problems on intersecting Domains**](https://arxiv.org/pdf/2512.11111)<br/>
+1. [**Analysis of a discontinuous Galerkin method for diffusion problems on intersecting domains**](https://arxiv.org/pdf/2512.11111)<br/>
    M. Kuchta, R. Masri, B. Riviere <br />
    *Submitted*, 2026
 1. [**A priori error analysis of the proximal Galerkin method**](https://arxiv.org/abs/2507.13516)<br/>
@@ -39,7 +39,7 @@ R. Masri, B. Shen, B. Riviere
 1.  [**A discontinuous Galerkin pressure correction scheme for the incompressible Navier-Stokes equations: stability and convergence**](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2022-03731-5/)   
 R. Masri, C. Liu, B. Riviere        
 *Mathematics of Computation*, 2022
-1. [**A discontinuous Galerkin method for blood flow and solute transport in one dimensional vessel networks**](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
+1. [**A discontinuous Galerkin method for blood flow and solute transport in one-dimensional vessel networks**](https://link.springer.com/article/10.1007/s42967-021-00126-5)  
 R. Masri, C. Puelz, B. Riviere  
 *Communications on Applied Mathematics and Computation,* 2021
 1. [**A reduced model for solute transport in compliant blood vessels with arbitrary axial velocity profile**](https://www.sciencedirect.com/science/article/pii/S0017931021004828)  
@@ -48,7 +48,7 @@ R. Masri, C. Puelz, B. Riviere
 
 ## Teaching Experience and Qualifications 
 - **Instructor**: Brown University  <br />
- [Introduction to Scientific Computing] <br/ > 
+Introduction to Scientific Computing, 
 Fall 2025
 - **Co-instructor and Co-organizer**: Simula Academy  <br />
  [FAEFEM: Functional Analysis Essentials for the Finite Element Method](https://www.simula.no/education/courses/faefem-functional-analysis-essentials-finite-element-method), Simula Academy, March 2023
