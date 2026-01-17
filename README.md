@@ -8,11 +8,10 @@
 1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://arxiv.org/pdf/2412.21039) <br/>
  G. Fu, B. Keith, R. Masri <br /> 
   *Submitted*, 2025 
+## Publications 
 1. [**A Discontinuous Galerkin Method for the Extracellular Membrane Intracellular Model**](https://arxiv.org/pdf/2411.02646) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
-  *Submitted*, 2024 
-   
-## Publications 
+  *IMA Journal of Numerical Analysis (to appear)*, 2026 
 1. [**A unified framework for the error analysis of physics-informed neural networks**]( https://doi.org/10.1093/imanum/drae081) <br />
 M. Zeinhofer, R. Masri, K. A. Mardal <br />
   *IMA Journal of Numerical Analysis*, 2024
