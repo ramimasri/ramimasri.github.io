@@ -1,4 +1,10 @@
 ## Preprints 
+1. [**Proximal discontinuous Galerkin methods for variational inequalities**](https://arxiv.org/pdf/2604.19708)<br/>
+   A. Ern,  B. Keith, D. Kim, R. Masri, B. Riviere <br />
+   *Submitted*, 2026
+1. [**The proximal Galerkin method for non-symmetric variational inequalities**](https://arxiv.org/pdf/2602.14967)<br/> 
+   G. Fu, B. Keith, D. Kim,  R. Masri, W. Pazner <br />
+   *Submitted*, 2026
 1. [**Analysis of a discontinuous Galerkin method for diffusion problems on intersecting domains**](https://arxiv.org/pdf/2512.11111)<br/>
    M. Kuchta, R. Masri, B. Riviere <br />
    *Submitted*, 2026
@@ -6,13 +12,13 @@
    B. Keith, R. Masri, M. Zeinhofer <br/>
   *Submitted*, 2025
 1. [**In-silico molecular enrichment and clearance of the human intracranial space**](https://www.biorxiv.org/content/10.1101/2025.01.30.635680v1.full.pdf)<br/>
- M. Causemann, M. Kuchta, R. Masri, M.E. Rognes <br/>
-*Submitted*, 2025
+   M. Causemann, M. Kuchta, R. Masri, M.E. Rognes <br/>
+  *Submitted*, 2025
+   
+## Publications 
 1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://arxiv.org/pdf/2412.21039) <br/>
  G. Fu, B. Keith, R. Masri <br /> 
-  *Submitted*, 2025
-    
-## Publications 
+  *Mathematics of Computation (to appear)*, 2026
 1. [**A discontinuous Galerkin method for the extracellular membrane intracellular model**](https://arxiv.org/pdf/2411.02646) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
   *IMA Journal of Numerical Analysis (to appear)*, 2026 
