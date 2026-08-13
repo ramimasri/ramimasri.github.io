@@ -16,9 +16,9 @@
   *Submitted*, 2025
    
 ## Publications 
-1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://arxiv.org/pdf/2412.21039) <br/>
+1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://pubs.ams.org/MCOM/0000-000-00/S0025-5718-2026-04218-8) <br/>
  G. Fu, B. Keith, R. Masri <br /> 
-  *Mathematics of Computation (to appear)*, 2026
+  *Mathematics of Computation*, 2026
 1. [**A discontinuous Galerkin method for the extracellular membrane intracellular model**](https://doi.org/10.1093/imanum/drag012) <br />
  R. Masri, KLA. Kirk, E. Hauge, M. Kuchta <br />
   *IMA Journal of Numerical Analysis*, 2026 
