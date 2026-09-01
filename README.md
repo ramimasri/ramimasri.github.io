@@ -11,11 +11,11 @@
 1. [**A priori error analysis of the proximal Galerkin method**](https://arxiv.org/abs/2507.13516)<br/>
    B. Keith, R. Masri, M. Zeinhofer <br/>
   *Submitted*, 2025
-1. [**In-silico molecular enrichment and clearance of the human intracranial space**](https://www.biorxiv.org/content/10.1101/2025.01.30.635680v1.full.pdf)<br/>
-   M. Causemann, M. Kuchta, R. Masri, M.E. Rognes <br/>
-  *Submitted*, 2025
    
 ## Publications 
+1. [**In-silico molecular enrichment and clearance of the human intracranial space**](https://www.nature.com/articles/s41467-026-77174-z)<br/>
+   M. Causemann, M. Kuchta, R. Masri, M.E. Rognes <br/>
+  *Nature Communications*, 2026
 1. [**A locally-conservative proximal Galerkin method for pointwise bound constraints**](https://pubs.ams.org/MCOM/0000-000-00/S0025-5718-2026-04218-8) <br/>
  G. Fu, B. Keith, R. Masri <br /> 
   *Mathematics of Computation*, 2026
